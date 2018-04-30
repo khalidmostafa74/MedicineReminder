@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Drugs Time</string>
+    <string name="title_activity_add">Add Drug</string>
+</resources>
